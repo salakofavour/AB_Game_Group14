@@ -1,11 +1,13 @@
 AB_Game draws inspiration from anothe game called Bulls and Cows game.
 
 AB Game Instructions
+
 The AB Game is a code-breaking game where the codebreaker tries to guess the codemaker's secret code.
 
 The secret code is a sequence of 4 unique digits (0-9).
-After each guess, the codemaker provides a hint:
-"A" indicates a correct digit in the correct position.
+
+After each guess, the codemaker provides a hint:/n
+"A" indicates a correct digit in the correct position.\n
 "B" indicates a correct digit in the wrong position.
 The hint format is "xAyB", where:
 "x" is the number of correct digits in the correct position (A).
