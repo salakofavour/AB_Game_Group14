@@ -1,4 +1,5 @@
 AB_Game draws inspiration from anothe game called Bulls and Cows game.
+
 AB Game Instructions
 The AB Game is a code-breaking game where the codebreaker tries to guess the codemaker's secret code.
 
